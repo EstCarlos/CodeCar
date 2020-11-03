@@ -9189,23 +9189,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\carlo\\.nuget\\packages\\": {},
+    "C:\\Users\\Gamer Ryzen 5\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\p3\\CodeGit\\CodeCar\\blazorapp\\blazorapp.csproj",
+      "projectUniqueName": "C:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\blazorapp.csproj",
       "projectName": "blazorapp",
-      "projectPath": "C:\\p3\\CodeGit\\CodeCar\\blazorapp\\blazorapp.csproj",
-      "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\p3\\CodeGit\\CodeCar\\blazorapp\\obj\\",
+      "projectPath": "C:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\blazorapp.csproj",
+      "packagesPath": "C:\\Users\\Gamer Ryzen 5\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gamer Ryzen 5\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -9283,7 +9283,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

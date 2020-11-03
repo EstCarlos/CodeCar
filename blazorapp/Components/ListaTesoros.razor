@@ -12,6 +12,7 @@
             <th>Lugar</th>
             <th>Valor</th>
             <th>Url de referencia</th>
+            <th>Detalles</th>
         </thead>
         <tbody>
             @if(tesoros.Count > 0)
@@ -27,6 +28,9 @@
                         <td>@T.Lugar</td>
                         <td>@T.Valor</td>
                         <td><a href="@T.UrlRef">Enlace de referencia</a></td>
+                        <td><button  @onclick="()=>SetTesoroModal(T)"
+                        data-toggle="modal" data-target="#tesoroModalDetalle"
+                         class="btn btn-link">Ver Detalles</button></td>
                     </tr>
                     
                 }
@@ -34,6 +38,8 @@
         </tbody>
     </table>
 </div>
+
+<ModalDetalle Id="@ModalId" ts="@ModalT"/>
 
 @code
 {
@@ -44,6 +50,7 @@
 
     List<Tesoro> tesoros = new List<Tesoro>();
     Tesoro ModalT = new Tesoro();
+    private string modalId = "tesoroModalDeatalle";
     private void SetTesoroModal(Tesoro t)
     {
         ModalT = t;
