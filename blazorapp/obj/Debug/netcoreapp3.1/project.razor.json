@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\blazorapp.csproj",
+  "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\blazorapp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -11,6 +11,718 @@
   },
   "ProjectWorkspaceState": {
     "TagHelpers": [
+      {
+        "HashCode": -985625777,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.App",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.App"
+        }
+      },
+      {
+        "HashCode": 599440640,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.App",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1690475180,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Components.Principal",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Principal"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Components.Principal"
+        }
+      },
+      {
+        "HashCode": -1838476924,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Components.Principal",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Components.Principal"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Components.Principal",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1040783190,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Components.ListaTesoros",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ListaTesoros"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Uid",
+            "TypeName": "System.Guid",
+            "Metadata": {
+              "Common.PropertyName": "Uid"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChangeUrl",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "ChangeUrl",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Components.ListaTesoros"
+        }
+      },
+      {
+        "HashCode": 527498208,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Components.ListaTesoros",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Components.ListaTesoros"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Uid",
+            "TypeName": "System.Guid",
+            "Metadata": {
+              "Common.PropertyName": "Uid"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChangeUrl",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "ChangeUrl",
+              "Components.EventCallback": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Components.ListaTesoros",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -372931040,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Components.AgregarTesoros",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarTesoros"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Uid",
+            "TypeName": "System.Guid",
+            "Metadata": {
+              "Common.PropertyName": "Uid"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Components.AgregarTesoros"
+        }
+      },
+      {
+        "HashCode": 1857079751,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Components.AgregarTesoros",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Components.AgregarTesoros"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Uid",
+            "TypeName": "System.Guid",
+            "Metadata": {
+              "Common.PropertyName": "Uid"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Components.AgregarTesoros",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -274360536,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Components.Mapa",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Mapa"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TID",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "TID"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Components.Mapa"
+        }
+      },
+      {
+        "HashCode": 918482927,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Components.Mapa",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Components.Mapa"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TID",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "TID"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Components.Mapa",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -345709300,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Components.ModalDetalle",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ModalDetalle"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ts",
+            "TypeName": "blazorapp.Data.Tesoro",
+            "Metadata": {
+              "Common.PropertyName": "ts"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Components.ModalDetalle"
+        }
+      },
+      {
+        "HashCode": 564803210,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Components.ModalDetalle",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Components.ModalDetalle"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ts",
+            "TypeName": "blazorapp.Data.Tesoro",
+            "Metadata": {
+              "Common.PropertyName": "ts"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Components.ModalDetalle",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -544675649,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Components.SingleMap",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SingleMap"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TiD",
+            "TypeName": "System.Guid",
+            "Metadata": {
+              "Common.PropertyName": "TiD"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Components.SingleMap"
+        }
+      },
+      {
+        "HashCode": -753293431,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Components.SingleMap",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Components.SingleMap"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TiD",
+            "TypeName": "System.Guid",
+            "Metadata": {
+              "Common.PropertyName": "TiD"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Components.SingleMap",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1780580774,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.Counter",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -129814747,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.Counter",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1686144671,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.FetchData",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -736477478,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.FetchData",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1492180587,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.MapaPage",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MapaPage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.MapaPage"
+        }
+      },
+      {
+        "HashCode": -473209269,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.MapaPage",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Pages.MapaPage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.MapaPage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1329809070,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.Index",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -2092651060,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.Index",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -730250809,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.LoginDisplay",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LoginDisplay"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.LoginDisplay"
+        }
+      },
+      {
+        "HashCode": -637342142,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.LoginDisplay",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Shared.LoginDisplay"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.LoginDisplay",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -712807449,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.MainLayout",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.MainLayout"
+        }
+      },
+      {
+        "HashCode": -1942911813,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.MainLayout",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Shared.MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.MainLayout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1782758178,
+        "Kind": "Components.ChildContent",
+        "Name": "blazorapp.Shared.MainLayout.Body",
+        "AssemblyName": "blazorapp",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "blazorapp.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 765098821,
+        "Kind": "Components.ChildContent",
+        "Name": "blazorapp.Shared.MainLayout.Body",
+        "AssemblyName": "blazorapp",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "blazorapp.Shared.MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "blazorapp.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2112126215,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.SurveyPrompt",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -47747048,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.SurveyPrompt",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2112518912,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.NavMenu",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -1253592945,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.NavMenu",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
       {
         "HashCode": 2012882598,
         "Kind": "Components.Component",
@@ -14392,144 +15104,179 @@
   "RootNamespace": "blazorapp",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Pages\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Shared\\LoginDisplay.razor",
-      "TargetPath": "Shared\\LoginDisplay.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\LogOut.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\LogOut.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Components\\Mapa.razor",
+      "TargetPath": "Components\\Mapa.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Pages\\_Host.cshtml",
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Pages\\_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\blazorapp\\Pages\\Index.razor",
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\LogOut.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\LogOut.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Components\\ModalDetalle.razor",
+      "TargetPath": "Components\\ModalDetalle.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Components\\Principal.razor",
+      "TargetPath": "Components\\Principal.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Pages\\MapaPage.razor",
+      "TargetPath": "Pages\\MapaPage.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Shared\\LoginDisplay.razor",
+      "TargetPath": "Shared\\LoginDisplay.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Components\\SingleMap.razor",
+      "TargetPath": "Components\\SingleMap.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Components\\ListaTesoros.razor",
+      "TargetPath": "Components\\ListaTesoros.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Components\\AgregarTesoros.razor",
+      "TargetPath": "Components\\AgregarTesoros.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Gamer Ryzen 5\\Desktop\\CodeCar\\CodeCar\\blazorapp\\Pages\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

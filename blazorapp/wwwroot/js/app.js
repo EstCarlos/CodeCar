@@ -5,6 +5,7 @@ let TData;
 
 const labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 let labelIndex = 0;
+let features = [{lat: 18.4855, lng: -69.8731}]
 
 function initMap(obj = null, zoom = 8, TJson = null){
     if(!!TJson)
@@ -14,7 +15,7 @@ function initMap(obj = null, zoom = 8, TJson = null){
     {
         TData = []
     }
-    const RD = { lat: 18.4855 , lng: -69.8731}
+    const RD = { lat: 18.4855, lng: -69.8731}
 
     let vista = document.getElementById("vista-mapa")
     setMap(vista, RD, zoom)
@@ -41,9 +42,9 @@ function setMap(container, position, zoom)
     });
 }
 
-function addMarker(location, map, index, title = ""){
+function addMarker(location, _map, index, title = ""){
 
-    let info
+    let info;
     if(title != "" && TData != null){
       info = TData.find( i => i.Tid == info)
       console.log(info)

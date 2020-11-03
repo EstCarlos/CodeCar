@@ -662,3 +662,7 @@ C:\Users\Gamer Ryzen 5\Desktop\CodeCar\CodeCar\blazorapp\obj\Debug\netcoreapp3.1
 C:\Users\Gamer Ryzen 5\Desktop\CodeCar\CodeCar\blazorapp\obj\Debug\netcoreapp3.1\staticwebassets\blazorapp.StaticWebAssets.Manifest.cache
 C:\Users\Gamer Ryzen 5\Desktop\CodeCar\CodeCar\blazorapp\obj\Debug\netcoreapp3.1\staticwebassets\blazorapp.StaticWebAssets.xml
 C:\Users\Gamer Ryzen 5\Desktop\CodeCar\CodeCar\blazorapp\obj\Debug\netcoreapp3.1\blazorapp.genruntimeconfig.cache
+C:\Users\Gamer Ryzen 5\Desktop\CodeCar\CodeCar\blazorapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\Mapa.razor.g.cs
+C:\Users\Gamer Ryzen 5\Desktop\CodeCar\CodeCar\blazorapp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MapaPage.razor.g.cs
+C:\Users\Gamer Ryzen 5\Desktop\CodeCar\CodeCar\blazorapp\obj\Debug\netcoreapp3.1\Razor\Components\Mapa.razor.g.cs
+C:\Users\Gamer Ryzen 5\Desktop\CodeCar\CodeCar\blazorapp\obj\Debug\netcoreapp3.1\Razor\Pages\MapaPage.razor.g.cs
