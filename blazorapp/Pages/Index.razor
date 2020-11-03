@@ -1,7 +1,13 @@
 ﻿@page "/"
+@using blazorapp.Components
 
-<h1>Hello, world!</h1>
-
-Welcome to your new app.
-
-<SurveyPrompt Title="How is Blazor working for you?" />
+<AuthorizeView>
+    <Authorized>
+        <Principal/>
+    </Authorized>
+    <NotAuthorized>
+        <p class="h2">
+            Aqui Guardamos se guardan tus secretos Inicie Sesion para ver y agregar tus Secretos
+        </p>
+    </NotAuthorized>
+</AuthorizeView>

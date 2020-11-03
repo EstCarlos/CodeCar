@@ -1,0 +1,68 @@
+@using Data
+@using Services
+@inject ITesoroService TS
+
+<div>
+    <table class="table table-hover table-dark">
+        <thead>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Peso</th>
+            <th>Fecha</th>
+            <th>Lugar</th>
+            <th>Valor</th>
+            <th>Url de referencia</th>
+        </thead>
+        <tbody>
+            @if(tesoros.Count > 0)
+            {
+                @foreach (Tesoro T in tesoros)
+                {
+                    
+                    <tr>
+                        <td>@T.Name</td>
+                        <td>@T.Descripcion</td>
+                        <td>@T.Weight</td>
+                        <td>@T.Date.Day / @T.Date.Month / @T.Date.Year</td>
+                        <td>@T.Lugar</td>
+                        <td>@T.Valor</td>
+                        <td><a href="@T.UrlRef">Enlace de referencia</a></td>
+                    </tr>
+                    
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+@code
+{
+    [Parameter]
+    public Guid Uid { get; set; }
+    [Parameter]
+    public EventCallback ChangeUrl { get; set; }
+
+    List<Tesoro> tesoros = new List<Tesoro>();
+    Tesoro ModalT = new Tesoro();
+    private void SetTesoroModal(Tesoro t)
+    {
+        ModalT = t;
+    }
+    protected override async Task OnParametersSetAsync()
+    {
+        await Load();
+        StateHasChanged();
+    }
+    protected override async Task OnAfterRenderAsync(bool firtRender)
+    {
+        StateHasChanged();
+        await Load();
+    }
+    private async Task Load()
+    {
+        if(Uid != null)
+        {
+            tesoros = await TS.GetAllTesoro(Uid);
+        }
+    }
+}
