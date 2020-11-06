@@ -45,6 +45,353 @@
         }
       },
       {
+        "HashCode": 1686144671,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.FetchData",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -736477478,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.FetchData",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1329809070,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.Index",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -2092651060,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.Index",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1780580774,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.Counter",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -129814747,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.Counter",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1492180587,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.MapaPage",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MapaPage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.MapaPage"
+        }
+      },
+      {
+        "HashCode": -473209269,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Pages.MapaPage",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Pages.MapaPage"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Pages.MapaPage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -730250809,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.LoginDisplay",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LoginDisplay"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.LoginDisplay"
+        }
+      },
+      {
+        "HashCode": -637342142,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.LoginDisplay",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Shared.LoginDisplay"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.LoginDisplay",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2112126215,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.SurveyPrompt",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -47747048,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.SurveyPrompt",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -712807449,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.MainLayout",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.MainLayout"
+        }
+      },
+      {
+        "HashCode": -1942911813,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.MainLayout",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Shared.MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.MainLayout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1782758178,
+        "Kind": "Components.ChildContent",
+        "Name": "blazorapp.Shared.MainLayout.Body",
+        "AssemblyName": "blazorapp",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "blazorapp.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 765098821,
+        "Kind": "Components.ChildContent",
+        "Name": "blazorapp.Shared.MainLayout.Body",
+        "AssemblyName": "blazorapp",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "blazorapp.Shared.MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "blazorapp.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2112518912,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.NavMenu",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -1253592945,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Shared.NavMenu",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1690475180,
         "Kind": "Components.Component",
         "Name": "blazorapp.Components.Principal",
@@ -149,59 +496,6 @@
         }
       },
       {
-        "HashCode": -372931040,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Components.AgregarTesoros",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "AgregarTesoros"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Uid",
-            "TypeName": "System.Guid",
-            "Metadata": {
-              "Common.PropertyName": "Uid"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Components.AgregarTesoros"
-        }
-      },
-      {
-        "HashCode": 1857079751,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Components.AgregarTesoros",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorapp.Components.AgregarTesoros"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Uid",
-            "TypeName": "System.Guid",
-            "Metadata": {
-              "Common.PropertyName": "Uid"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Components.AgregarTesoros",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -274360536,
         "Kind": "Components.Component",
         "Name": "blazorapp.Components.Mapa",
@@ -251,6 +545,59 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "blazorapp.Components.Mapa",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -372931040,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Components.AgregarTesoros",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarTesoros"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Uid",
+            "TypeName": "System.Guid",
+            "Metadata": {
+              "Common.PropertyName": "Uid"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Components.AgregarTesoros"
+        }
+      },
+      {
+        "HashCode": 1857079751,
+        "Kind": "Components.Component",
+        "Name": "blazorapp.Components.AgregarTesoros",
+        "AssemblyName": "blazorapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorapp.Components.AgregarTesoros"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Uid",
+            "TypeName": "System.Guid",
+            "Metadata": {
+              "Common.PropertyName": "Uid"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorapp.Components.AgregarTesoros",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -373,353 +720,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "blazorapp.Components.SingleMap",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1780580774,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Pages.Counter",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -129814747,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Pages.Counter",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorapp.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1686144671,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Pages.FetchData",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -736477478,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Pages.FetchData",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorapp.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1492180587,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Pages.MapaPage",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MapaPage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Pages.MapaPage"
-        }
-      },
-      {
-        "HashCode": -473209269,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Pages.MapaPage",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorapp.Pages.MapaPage"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Pages.MapaPage",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1329809070,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Pages.Index",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -2092651060,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Pages.Index",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorapp.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -730250809,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Shared.LoginDisplay",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "LoginDisplay"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Shared.LoginDisplay"
-        }
-      },
-      {
-        "HashCode": -637342142,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Shared.LoginDisplay",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorapp.Shared.LoginDisplay"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Shared.LoginDisplay",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -712807449,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Shared.MainLayout",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Shared.MainLayout"
-        }
-      },
-      {
-        "HashCode": -1942911813,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Shared.MainLayout",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorapp.Shared.MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Shared.MainLayout",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1782758178,
-        "Kind": "Components.ChildContent",
-        "Name": "blazorapp.Shared.MainLayout.Body",
-        "AssemblyName": "blazorapp",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "MainLayout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "blazorapp.Shared.MainLayout.Body",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": 765098821,
-        "Kind": "Components.ChildContent",
-        "Name": "blazorapp.Shared.MainLayout.Body",
-        "AssemblyName": "blazorapp",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "blazorapp.Shared.MainLayout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "blazorapp.Shared.MainLayout.Body",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2112126215,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Shared.SurveyPrompt",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -47747048,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Shared.SurveyPrompt",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorapp.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2112518912,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Shared.NavMenu",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -1253592945,
-        "Kind": "Components.Component",
-        "Name": "blazorapp.Shared.NavMenu",
-        "AssemblyName": "blazorapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorapp.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorapp.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
